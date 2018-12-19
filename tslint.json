@@ -1,0 +1,13 @@
+{
+  "extends": [],
+  "defaultSeverity": "warning",
+  "noUnusedLocals": false,
+  "noUnusedParameters": false,
+  "linterOptions": {
+    "exclude": [
+      "config/**/*.js",
+      "node_modules/**/*.ts",
+      "coverage/lcov-report/*.js"
+    ]
+  }
+}
