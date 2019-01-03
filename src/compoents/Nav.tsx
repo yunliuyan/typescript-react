@@ -34,7 +34,7 @@ class Nav extends React.Component<Props,State>{
                 },
                 {
                     name:'函数',
-                    path: '/baseType'
+                    path: '/func'
                 },
                 {
                     name:'泛型',
